@@ -1,0 +1,4 @@
+name: UtilityPlugin
+version: '${project.version}'
+main: me.zombieman.dev.utilityplugin.UtilityPlugin
+api-version: '1.20'
